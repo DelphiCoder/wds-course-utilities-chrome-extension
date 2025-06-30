@@ -20,6 +20,10 @@ Unfortunately, video quality settings are not saved by this extension as Cloudfl
 
 If you click on the extension in your toolbar you can enable the autoplay feature. This will automatically play the next video in the course when the current video ends. You can also change the delay between the current video ending and the next video starting to any value between 0 and 10 seconds.
 
+## How To Get It
+
+You can find the extenstion at the [Chrome Web Store](https://chromewebstore.google.com/detail/web-dev-simplified-course/abcfjmcpkeglnadogjdbignmonjdklge) page. 
+
 ## Contributing
 
 If you have any features, bug reports, or other contributions you would like to make to this extension, please open an issue or a pull request. Be as detailed as you can when opening an issue for a bug report or feature request as that will make it quicker for me to implement the feature/fix.
